@@ -1,0 +1,9 @@
+matplotlib
+seaborn
+pandas
+pydantic
+numpy
+optuna
+IPython
+black[jupyter]
+tabulate
